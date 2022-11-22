@@ -1,2 +1,2 @@
 # Hackathon
-le site grand hackaton
+le site grand hackathon
