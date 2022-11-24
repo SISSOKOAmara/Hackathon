@@ -182,7 +182,7 @@ h6,
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Open Sans", sans-serif;
+  font-family: "poppins";
   font-size: 15px;
   color: #5c768d;
   white-space: nowrap;
@@ -562,7 +562,8 @@ section {
   font-weight: 600;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #5c768d;
+  text-decoration: underline;
+  color: #ffffff;
 }
 
 .section-title p {
@@ -845,19 +846,22 @@ section {
 --------------------------------------------------------------*/
 .counts {
   padding-bottom: 30px;
+  background-color: #1E2144;
+  color: white;
 }
 
 .counts .count-box {
+  /* box-shadow: 0px 0 16px rgba(0, 0, 0, 0.1); */
   box-shadow: 0px 0 16px rgba(0, 0, 0, 0.1);
   padding: 30px;
-  background: #fff;
+  background: #f1a20e;
   margin-bottom: 30px;
 }
 
 .counts .count-box i {
   display: block;
   font-size: 64px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .counts .count-box span {
@@ -1517,4 +1521,14 @@ section {
 
 #footer .credits a {
   color: #9eccf4;
+}
+
+/* Zeï */
+.btnn{
+  font-family:Raleway ;
+  border-radius: 10px;
+  background-color: #1e2144;
+  color: #fff;
+  font-size: 17px;
+  padding: 3px;
 }
