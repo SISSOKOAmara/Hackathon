@@ -564,7 +564,6 @@ section {
   font-weight: 600;
   margin-bottom: 20px;
   padding-bottom: 0;
-  text-decoration: underline;
   color: #ffffff;
 }
 
@@ -942,7 +941,7 @@ section {
   display: block;
   width: 50px;
   height: 2px;
-  background: #428bca;
+  background: #f1a30e;
   bottom: 0;
   left: calc(50% - 25px);
 }
