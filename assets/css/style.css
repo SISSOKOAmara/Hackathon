@@ -1531,9 +1531,10 @@ section {
 /* Zeï */
 .btnn{
   font-family:Raleway ;
-  border-radius: 1px;
+  border-radius: 10px;
   background-color: #1e2144;
   color: #fff;
+  margin-right: 20px;
   font-size: 17px;
   padding: 3px;
 }
