@@ -81,7 +81,7 @@ h6,
 #topbar {
   background: #fff;
   border-bottom: 1px solid #eee;
-  font-size: 15px;
+  /* font-size: 15px; */
   height: 40px;
   padding: 0;
 }
@@ -885,7 +885,7 @@ section {
 --------------------------------------------------------------*/
 .services {
   padding-bottom: 10px;
-  background-color: #1E2144;
+  /* background-color: #1E2144; */
 
 }
 
@@ -1531,7 +1531,7 @@ section {
 /* Zeï */
 .btnn{
   font-family:Raleway ;
-  border-radius: 10px;
+  border-radius: 1px;
   background-color: #1e2144;
   color: #fff;
   font-size: 17px;
