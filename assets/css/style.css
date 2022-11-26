@@ -509,11 +509,11 @@ h6,
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   border: 0;
-  background: #428bca;
+  background: #f1a20e;
 }
 
 #hero .btn-get-started:hover {
-  background: #1c5c93;
+  background: #f1a20e;
 }
 
 @media (max-width: 768px) {
