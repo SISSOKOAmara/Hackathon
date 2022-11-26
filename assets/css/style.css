@@ -58,7 +58,7 @@ h6,
 }
 
 .back-to-top:hover {
-  background: #629fd3;
+  background: #1e2144;
   color: #fff;
 }
 
@@ -201,7 +201,7 @@ h6,
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #428bca;
+  color: #f1a20e;
 }
 
 .navbar .dropdown ul {
@@ -1430,7 +1430,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background:#f1a20e;
+  background:#1e2144;
   color: #fff;
   text-decoration: none;
 }
