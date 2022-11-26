@@ -819,14 +819,15 @@ section {
   display: block;
   font-size: 24px;
   font-weight: 400;
-  color: #9eccf4;
+  color: #f1a20e;
 }
 
-.about-lists .content-item h4 {
-  font-size: 28px;
-  font-weight: 400;
+.about-lists .content-item h5 {
+  font-size: 20px;
+  font-weight: bold;
   padding: 0;
   margin: 20px 0;
+  
 }
 
 .about-lists .content-item p {
