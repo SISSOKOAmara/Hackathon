@@ -1417,7 +1417,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #768fa6;
+  background: #f1a20e;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1430,7 +1430,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #428bca;
+  background:#f1a20e;
   color: #fff;
   text-decoration: none;
 }
@@ -1455,7 +1455,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #9eccf4;
+  color: #f1a20e;
   font-size: 18px;
   line-height: 1;
 }
@@ -1478,7 +1478,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #9eccf4;
+  color: #f1a20e;
 }
 
 #footer .footer-top .footer-newsletter form {
