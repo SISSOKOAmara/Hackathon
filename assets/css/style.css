@@ -811,7 +811,7 @@ section {
 
 .about-lists .content-item {
   padding: 40px;
-  border-left: 1px solid #d9e8f4;
+  border-left: 1px solid #f1a30e;
   border-bottom: 1px solid #d9e8f4;
   margin: -1px;
 }
@@ -1543,12 +1543,14 @@ section {
   padding: 3px;
 }
 
-#defil{
 
-}
 .logopart{
   width: 100px;
   height: auto;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
+}
+.title{
+  color: #f1a30e;
+  font-family: poppins;
 }
