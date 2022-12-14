@@ -43,7 +43,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="index.html">Accueil</a></li>
-          <li><a class="nav-link scrollto" href="edition.html">Editions</a></li>
+          <li><a class="nav-link scrollto" href="" data-bs-toggle="modal" data-bs-target="#exampleModal">Edition</a></li>
           <li><a class="nav-link scrollto" href="projet.html">Projets</a></li>
           <li><a class="nav-link scrollto" href="participer.html">Participer</a></li> 
           <li><a class="nav-link scrollto" href="soutenir.html">Nous Soutenir</a></li>
@@ -296,7 +296,7 @@
         </div>
       </div>
     </div>
-
+    
     <div class="container">
       <div class="copyright">
         &copy; Copyright <strong><span>Grand Hackathon</span></strong>. Tout droit reservé
@@ -309,6 +309,30 @@
   <!-- End Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center" id="defil"><i class="bi bi-arrow-up-short"></i></a>
+
+
+    <!-- Button trigger modal -->
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h5 class="modal-title text-center" id="exampleModalLabel">Participer</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        Il n'y a pas d'édition en cours pour participer. <br>
+        La prochaine édition sera lancée sous peu.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Retour</button>
+        <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+      </div>
+    </div>
+  </div>
+</div>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
